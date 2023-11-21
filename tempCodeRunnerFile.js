@@ -1,0 +1,1 @@
+printLines(transpose(spin()))
